@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/WH_Detection" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
